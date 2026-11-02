@@ -1,5 +1,7 @@
 # Video Notes
 
+[中文说明](README.zh-CN.md)
+
 Transform online videos into structured reading notes with AI-powered transcription.
 
 ## What This Does
